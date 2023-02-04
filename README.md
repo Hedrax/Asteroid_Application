@@ -18,7 +18,21 @@ the application categorize the asteroids the ones that are dangerous(_near Earth
 * [Data-Binding](https://developer.android.com/topic/libraries/data-binding): A Jetpack support library that allows to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically
 * [Navigation Component](https://developer.android.com/guide/navigation): Android Jetpack's Navigation component, used for Fragment-based navigation
 ## ScreenShots
-![photo1](/screenshots/screen_1.png)
-![photo2](/screenshots/screen_2.png)
-![photo3](/screenshots/screen_3.png)
-![photo4](/screenshots/screen_4.png)
+<table>
+  <tr>
+     <td align="center">Listing screen</td>
+     <td align="center">Details screen</td>
+  </tr>
+  <tr>
+    <td><img src="/screenshots/screen_1.png"></td>
+    <td><img src="/screenshots/screen_2.png"></td>
+  </tr>
+  <tr>
+     <td align="center">Details Screen</td>
+     <td align="center">Details Message</td>
+  </tr>
+  <tr>
+    <td><img src="/screenshots/screen_3.png"></td>
+    <td><img src="/screenshots/screen_4.png"></td>
+  </tr>
+</table>
