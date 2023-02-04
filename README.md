@@ -1,9 +1,12 @@
-# Purpose of this Folder
-
-This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
-
-## Note: Android Kotlin Gradle Update
-Use the updated Gradle version in the `~/gradle/wrapper/gradle-wrapper.properties` file:
-```
-distributionUrl = https\://services.gradle.org/distributions/gradle-6.1.1-all.zip
-```
+# ShoeStore
+This application is a listing of shoes items with a login screen\
+_This project made in the Android Nano-Degree_
+## Main keypoints
+* Login screen
+* Listing screen
+* details screen (**For adding new items**)
+## Libraries
+* [Data-Binding](https://developer.android.com/topic/libraries/data-binding)
+* [Navigation Component](https://developer.android.com/guide/navigation)
+* [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+* [Material Component](https://developer.android.com/jetpack/compose/layouts/material)
