@@ -1,7 +1,7 @@
 # Asteroid Application
-This application is a listing of Daily Asteroids using NASA's Asteroids-api\
+This application is a listing of Daily Asteroids using NASA's Asteroids-API\
 the application categorize the asteroids the ones that are dangerous(_near Earth_) from the ones that are not(_far away_)
-### Describtion
+### Description
 * The application consists of main listing screen of clickable asteroids
 * A detail screen shows thhe details of the asteroid once it has been clicked
 * Downloading and pursing data of the NASA api
